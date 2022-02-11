@@ -1,0 +1,7 @@
+Java Launcher: /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/bin/java
+Arguments: '--inJar, /Users/swang4/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-injected.jar, --outJar, /Users/swang4/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.16.5-36.2.20_mapped_snapshot_20210309-1.16.5/forge-1.16.5-36.2.20_mapped_snapshot_20210309-1.16.5.jar, --logFile, accesstransform.log, --atFile, /Users/swang4/Documents/Modding/build/_atJar_5/parent_at.cfg'
+Classpath:
+ - /Users/swang4/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/8.0.7/accesstransformers-8.0.7-fatjar.jar
+Working directory: /Users/swang4/Documents/Modding/build/_atJar_5
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
