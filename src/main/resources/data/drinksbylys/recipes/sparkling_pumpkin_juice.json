@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "drinksbylys:pumpkin_juice"
+    },
+    {
+      "item": "drinksbylys:pumpkin_juice"
+    },
+    {
+      "item": "drinksbylys:pumpkin_juice"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "result": {
+    "item": "drinksbylys:sparkling_pumpkin_juice",
+    "count": 3
+  }
+}

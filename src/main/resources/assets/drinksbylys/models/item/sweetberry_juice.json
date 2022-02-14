@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "drinksbylys:item/apple_juice"
+    "layer0": "drinksbylys:item/sweetberry_juice"
   }
 }

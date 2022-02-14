@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "drinksbylys:sweetberry_juice"
+    },
+    {
+      "item": "drinksbylys:sweetberry_juice"
+    },
+    {
+      "item": "drinksbylys:sweetberry_juice"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "result": {
+    "item": "drinksbylys:sparkling_sweetberry_juice",
+    "count": 3
+  }
+}

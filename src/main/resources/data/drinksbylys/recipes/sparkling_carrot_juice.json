@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "drinksbylys:carrot_juice"
+    },
+    {
+      "item": "drinksbylys:carrot_juice"
+    },
+    {
+      "item": "drinksbylys:carrot_juice"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "result": {
+    "item": "drinksbylys:sparkling_carrot_juice",
+    "count": 3
+  }
+}

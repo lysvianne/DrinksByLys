@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "drinksbylys:item/sparkling_juice_overlay",
+    "layer1": "drinksbylys:item/beetroot_juice"
+  }
+}

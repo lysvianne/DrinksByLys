@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "drinksbylys:sugarcane_juice"
+    },
+    {
+      "item": "drinksbylys:sugarcane_juice"
+    },
+    {
+      "item": "drinksbylys:sugarcane_juice"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "result": {
+    "item": "drinksbylys:sparkling_sugarcane_juice",
+    "count": 3
+  }
+}
