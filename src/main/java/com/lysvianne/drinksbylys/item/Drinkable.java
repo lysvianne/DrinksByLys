@@ -16,15 +16,8 @@ import net.minecraft.world.World;
 
 public class Drinkable extends Item {
 
-    private boolean sparkles = false;
-
     public Drinkable(Properties properties) {
         super(properties);
-    }
-
-    public Drinkable(Properties properties, boolean sparkles) {
-        super(properties);
-        this.sparkles = sparkles;
     }
 
     @Override
@@ -64,10 +57,6 @@ public class Drinkable extends Item {
     @Override
     public ActionResult<ItemStack> onItemRightClick(World worldIn, PlayerEntity playerIn, Hand handIn) {
         return DrinkHelper.startDrinking(worldIn, playerIn, handIn);
-    }
-    @Override
-    public boolean hasEffect(ItemStack stack) {
-        return this.sparkles;
     }
 
 }
