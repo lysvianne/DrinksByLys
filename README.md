@@ -1,4 +1,4 @@
-## Drinks By Lys ##
+## Drinks By Lys 
 
 Drinks By Lys adds a curated selection of vanilla inspired drinks to Minecraft to add variety to the diets of Players. 
 
@@ -7,9 +7,9 @@ in the form of drinks.
 
 The mod is currently under heavy WIP and will be worked on sneakily in between lunch breaks, so please be patient when waiting for new recipes.
 
-###Current Recipes:
+## Current Recipes:
 
-#####Juice
+##### Juice
 - Apple Juice: 3 Apples, 1 Glass Bottle
 - Beetroot Juice: 3 Beetroots, 1 Glass Bottle
 - Carrot Juice: 3 Carrots, 1 Glass Bottle
@@ -19,7 +19,7 @@ The mod is currently under heavy WIP and will be worked on sneakily in between l
 - Sugar Cane Juice: 3 Sugar Cane, 1 Glass Bottle
 - Sweet Berry Juice: 5 Sweet Berry, 1 Glass Bottle
 
-#####Sparkling Juice
+##### Sparkling Juice
 These Juices grant 30 seconds of potion effects when consumed. Each recipe makes **3 Sparkling Juices**.
 - Sparkling Apple Juice: 3 Apple Juice, 1 Glowstone dust. Grants Haste 1
 - Sparkling Beetroot Juice: 3 Beetroot Juice, 1 Glowstone dust. Grants Strength 1
@@ -34,7 +34,7 @@ These Juices grant 30 seconds of potion effects when consumed. Each recipe makes
 - Flavoured Milks (Hot/Cold Milks will be exclusive to survival mods)
 - Hot/Cold Juices (Exclusive to survival mods)
  
-###Planned Compatability (WIP)
+### Planned Compatability (WIP)
 None of the mods are currently compatible, but will be in the future. Feel free to create data packs with the juices and add support yourself in the meantime.
 - Survive
 - Tough As Nails
