@@ -30,13 +30,23 @@ These Juices grant 30 seconds of potion effects when consumed. Each recipe makes
 - Sparkling Sugar Cane Juice: 3 Sugar Cane Juice, 1 Glowstone dust. Grants Speed 1
 - Sparkling Sweet Berry Juice: 3 Sweet Berry Juice, 1 Glowstone dust. Grants Slow Falling
 
+##### Farmers Delight
+- Apple Cider: Cook 1 Apple Juice, 1 Sugar. Makes 2 with glass bottles
+- Melon Juice (Farmers): Cook 1 Melon Juice (Lys), 1 Sugar. Makes 2 with glass bottles
+- Pumpkin Juice (Lys): 2 Pumpkin Slices (Farmers), 1 Glass Bottle. Makes 1
+
+#### Survive
+All juices and sparkling juices have the same effects as a purified water bottle, with the bonus of gaining 2 energy and an energised effect. This was decided as the sugar water bottle had these effects.
+
 ### Planned features:
 - Flavoured Milks (Hot/Cold Milks will be exclusive to survival mods)
 - Hot/Cold Juices (Exclusive to survival mods)
+- Mulled Juices 
  
-### Planned Compatability (WIP)
-None of the mods are currently compatible, but will be in the future. Feel free to create data packs with the juices and add support yourself in the meantime.
+### Compatability (WIP)
+The following mods have inbuilt support:
 - Survive
-- Tough As Nails
 - Farmers Delight
-- Simple Farming
+
+None of the following mods have special support, but will be in the future. Feel free to create data packs with the juices and add support yourself in the meantime.
+- Tough As Nails
