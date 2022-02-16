@@ -1,9 +1,26 @@
 {
-  "thirst": 4,
-  "hydration": 6.0,
-  "thirst_chance": 0.0,
-  "energy": 2,
-  "gives_chilled_effect": false,
-  "gives_heated_effect": false,
-  "gives_energizing_effect": true
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    }
+  ],
+  "result": {
+    "item": "drinksbylys:sweetberry_juice"
+  }
 }
