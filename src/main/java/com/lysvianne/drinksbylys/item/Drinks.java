@@ -4,7 +4,6 @@ import com.lysvianne.drinksbylys.DrinksByLys;
 import net.minecraft.item.Food;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
-import net.minecraft.item.Items;
 import net.minecraft.potion.Effect;
 import net.minecraft.potion.EffectInstance;
 import net.minecraft.potion.Effects;
@@ -17,7 +16,7 @@ public class Drinks {
 
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, DrinksByLys.MOD_ID);
 
-    public static final Food JUICE = (new Food.Builder()).hunger(2).saturation(0.2F).build();
+    public static final Food JUICE = (new Food.Builder()).hunger(3).saturation(0.6F).build();
 
     public static final RegistryObject<Item> APPLE_JUICE = ITEMS.register("apple_juice",
       () -> new Drinkable(new Item.Properties()
@@ -120,7 +119,7 @@ public class Drinks {
     }
 
     private static Food buildSparklingJuice(Effect potionEffect, boolean instant){
-        return (new Food.Builder()).hunger(2).saturation(0.2F)
+        return (new Food.Builder()).hunger(3).saturation(0.6F)
           .effect(new EffectInstance(potionEffect, instant? 1:600), 1.0F)
           .build();
     }

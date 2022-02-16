@@ -5,16 +5,16 @@
       "item": "minecraft:glass_bottle"
     },
     {
-      "item": "minecraft:melon"
+      "item": "minecraft:sugar_cane"
     },
     {
-      "item": "minecraft:melon"
+      "item": "minecraft:sugar_cane"
     },
     {
-      "item": "minecraft:melon"
+      "item": "minecraft:sugar_cane"
     }
   ],
   "result": {
-    "item": "drinksbylys:melon_juice"
+    "item": "drinksbylys:sugarcane_juice"
   }
 }
