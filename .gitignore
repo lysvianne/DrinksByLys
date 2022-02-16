@@ -15,10 +15,6 @@ out/
 **/*.jar
 **/*.war
 **/*.ear
-**/env.sh
-**/env.env
-**/env.properties
-**/micros-env.sh
 **/.env
 **/.envrc
 **/.credentials
@@ -26,61 +22,12 @@ out/
 env.sh
 .credentials
 micros.env
-**/micros.env
-!gradle-wrapper.jar
-catalogue-service/.editorconfig
 yarn-mutex.lock
 *.log
-.asap-config
 
 **/.nebulae
 
-# ignore terraform-generated files
-.terraform
-*.tfstate*
-
 **/.docker
-
-**/aws.props
-
-# Cloud Provisioner PDV run
-/cloud-provisioner/bin/semantic-check/check-result-*
-/cloud-provisioner/bin/semantic-check/ngrok-*.yml
-
-/cloud-provisioner/env.sh
-/cloud-provisioner/swfLocalState.json
-/cloud-provisioner/.standalone-asap-config
-
-/alerts-tracker/secrets/jira-sdog-api-token
-/alerts-tracker/secrets/jira-sdog-api-token-username
-/alerts-tracker/secrets/slack-bot-token
-/alerts-tracker/secrets/opsgenie-api-token-context
-/alerts-tracker/secrets/opsgenie-api-token-provisioning
-/cloud-provisioner/secrets/cloudprov-sc-bot_password
-/cp-failure-tracker/secrets/fabric-username
-/cp-failure-tracker/secrets/fabric-api-token-prod
-/cp-failure-tracker/secrets/jac-password
-/cp-failure-tracker/secrets/jac-username
-/cp-failure-tracker/secrets/jira-production-api-token
-/cp-failure-tracker/secrets/jira-production-username
-/cp-failure-tracker/secrets/jira-staging-api-token
-/cp-failure-tracker/secrets/jira-staging-username
-/cp-failure-tracker/secrets/splunk-password
-/cp-failure-tracker/secrets/splunk-username
-/hoverboard-team/techops/hello-api.key
-/hoverboard-team/techops/hello-api.user
-/hoverboard-team/launchdarkly-secrets/ff-api-key-dev
-/hoverboard-team/launchdarkly-secrets/ff-api-key-staging
-/hoverboard-team/launchdarkly-secrets/ff-api-key-prod
-/keyrings/live/pubring*
-/keyrings/live/trustdb*
-/keyrings/live/secring*
-/keyrings/live/.gitattributes
-
-catalogue-data-search-ui/src/main/js/bower_components/
-catalogue-data-search-ui/src/main/js/coverage/
-catalogue-data-search-ui/src/main/js/node_modules/
-catalogue-data-search-ui/src/main/resources/public/
 
 __pycache__/
 
@@ -90,15 +37,3 @@ __pycache__/
 *.project
 *.prefs
 *.classpath
-
-# Local Stack setup
-/local-setup/.localstack/
-/local-setup/.terraform/
-/local-setup/.terraform.lock.hcl
-/local-setup/terraform.tfstate
-
-# Ignore JS deps
-**/node_modules/
-/keyrings/live/pubring.gpg~
-/keyrings/live/pubring.kbx~
-/keyrings/live/secring.gpg
