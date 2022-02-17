@@ -36,7 +36,7 @@ These Juices grant 30 seconds of potion effects when consumed. Each recipe makes
 - Pumpkin Juice (Lys): 2 Pumpkin Slices (Farmers), 1 Glass Bottle. Makes 1
 
 #### Survive
-All juices and sparkling juices have the same effects as a purified water bottle, with the bonus of gaining 2 energy and an energised effect. This was decided as the sugar water bottle had these effects.
+All juices and sparkling juices have the same effects as a purified water bottle (5 thirst and 6 hydration), with the bonus of gaining 2 energy. This was decided as the sugar water bottle had these effects.
 
 ### Planned features:
 - Flavoured Milks (Hot/Cold Milks will be exclusive to survival mods)
