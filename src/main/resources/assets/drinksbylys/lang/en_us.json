@@ -14,5 +14,6 @@
   "item.drinksbylys.sparkling_chorus_juice": "Sparkling Chorus Juice",
   "item.drinksbylys.sparkling_melon_juice": "Sparkling Melon Juice",
   "item.drinksbylys.sparkling_beetroot_juice": "Sparkling Beetroot Juice",
-  "item.drinksbylys.sparkling_sugarcane_juice": "Sparkling Sugar Cane Juice"
+  "item.drinksbylys.sparkling_sugarcane_juice": "Sparkling Sugar Cane Juice",
+  "itemGroup.drinksItemTab": "Drinks By Lys"
 }
